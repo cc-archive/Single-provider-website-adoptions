@@ -7,5 +7,5 @@ Separate from platform initiative, this project deals with CC license adoptions 
 | ------------- | ------------- |
 | Driver  | [Jane](https://github.com/janeatcc)  |
 | Accountable  |   |
-| Consulted | Add yourselves here |
+| Consulted | Diane Add yourselves here |
 | Informed | Add yourselves here |
